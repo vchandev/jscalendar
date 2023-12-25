@@ -1,2 +1,3 @@
-# jscalendar
-Calendar in Javascript
+# Calendar in Javascript
+
+To view the calendar, please open index.html.
